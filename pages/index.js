@@ -15,7 +15,7 @@ const Home = () => (
 		</ul>
 		
 		<h3>Mirror at <a target="_blank" href="https://industrial.malaysia-sdg.cyou/">https://industrial.malaysia-sdg.cyou/</a> @ Azure Cloud</h3>
-		<ul>
+		<ul class="no-bullet">
 			<li>Bitnami WordPress with NGINX and SSL 5.6.2-0</li>
 			<li>Linux 4.19.0-14-cloud-amd64 SMP Debian 4.19.171-2 x86_64</li>
 		</ul>
