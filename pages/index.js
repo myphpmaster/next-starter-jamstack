@@ -5,8 +5,8 @@ const Home = () => (
   <div>
     <h1>Malaysia Sustainable Development Goals</h1>
 
-    <h3>Hooray 🎉 - Our first site live now at <a href="https://industry.malaysia-sdg.cyou/">https://industry.malaysia-sdg.cyou/</a>!</h3>
-    <h3>Mirror at <a href="https://industrial.malaysia-sdg.cyou/">https://industrial.malaysia-sdg.cyou/</a>!</h3>
+    <h3>Hooray 🎉 - Our first site live now at <a target="_blank" href="https://industry.malaysia-sdg.cyou/">https://industry.malaysia-sdg.cyou/</a>!</h3>
+    <h3>Mirror at <a target="_blank" href="https://industrial.malaysia-sdg.cyou/">https://industrial.malaysia-sdg.cyou/</a>!</h3>
 
     <style jsx>{`
       :global(html,body) {
