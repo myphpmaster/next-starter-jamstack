@@ -9,13 +9,13 @@ const Home = () => (
 	
 	<div>
 		<h3><a target="_blank" href="https://industry.malaysia-sdg.cyou/">https://industry.malaysia-sdg.cyou/</a> @ Alibaba Cloud</h3> 
-		<ul class="no-bullet">
+		<ul>
 			<li>Plesk Onyx 17.8.11 Update #95</li>
 			<li>CentOS Linux 7.4.1708</li>
 		</ul>
 		
 		<h3>Mirror at <a target="_blank" href="https://industrial.malaysia-sdg.cyou/">https://industrial.malaysia-sdg.cyou/</a> @ Azure Cloud</h3>
-		<ul class="no-bullet">
+		<ul>
 			<li>Bitnami WordPress with NGINX and SSL 5.6.2-0</li>
 			<li>Linux 4.19.0-14-cloud-amd64 SMP Debian 4.19.171-2 x86_64</li>
 		</ul>
@@ -44,7 +44,7 @@ const Home = () => (
         color: white;
       }
 	  
-	  .no-bullet {
+	  ul {
 		 list-style: none;
 	  }
 
