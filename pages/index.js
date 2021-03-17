@@ -8,8 +8,13 @@ const Home = () => (
     <h3>Hooray 🎉 - Our first site live now!! </h3>
 	
 	<div>
-		<h3><a target="_blank" href="https://industry.malaysia-sdg.cyou/">https://industry.malaysia-sdg.cyou/</a></h3> - @ Alibaba Cloud
-		<h3>Mirror at <a target="_blank" href="https://industrial.malaysia-sdg.cyou/">https://industrial.malaysia-sdg.cyou/</a></h3> - @ Azure Cloud
+		<h3><a target="_blank" href="https://industry.malaysia-sdg.cyou/">https://industry.malaysia-sdg.cyou/</a> @ Alibaba Cloud</h3> 
+		- Plesk 
+		- Centos 
+		
+		<h3>Mirror at <a target="_blank" href="https://industrial.malaysia-sdg.cyou/">https://industrial.malaysia-sdg.cyou/</a> @ Azure Cloud</h3>
+		- Bitnami
+		- Ubuntu
 	</div>
 
     <style jsx>{`
